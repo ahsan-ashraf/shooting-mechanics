@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_GunShooting/Scenes/SampleScene.unity
+- path: Assets/1. Weapon Mechanics/Grenades/Demo.unity
   isLoaded: 1
   isActive: 1
