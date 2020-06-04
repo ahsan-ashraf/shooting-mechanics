@@ -63,10 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\1. Weapon Mechanics\Grenades\Scripts\Grenade.cs" />
-    <Compile Include="Assets\1. Weapon Mechanics\Grenades\Scripts\GrenadeThrower.cs" />
-    <Compile Include="Assets\1. Weapon Mechanics\Guns\Scripts\Gun.cs" />
-    <Compile Include="Assets\1. Weapon Mechanics\Guns\Scripts\Target.cs" />
+    <Compile Include="Assets\1. Weapon Mechanics\Grenade.cs" />
+    <Compile Include="Assets\1. Weapon Mechanics\GrenadeThrower.cs" />
+    <Compile Include="Assets\1. Weapon Mechanics\Scripts\Gun.cs" />
+    <Compile Include="Assets\1. Weapon Mechanics\Scripts\Target.cs" />
+    <Compile Include="Assets\1. Weapon Mechanics\Scripts\WeaponSwitching.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
